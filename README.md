@@ -1,3 +1,6 @@
+
+
+
 # Ngày 7 — Nền Tảng Dữ Liệu: Embedding & Vector Store
 
 ---
