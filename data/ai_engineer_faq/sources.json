@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "D1",
+    "title": "Prompt Engineering",
+    "url": "https://developers.openai.com/api/docs/guides/prompt-engineering.md",
+    "markdown_file": "docs_md/D1_prompt_engineering.md",
+    "text_file": "docs_txt/D1_prompt_engineering.txt"
+  },
+  {
+    "doc_id": "D2",
+    "title": "Embeddings",
+    "url": "https://developers.openai.com/api/docs/guides/embeddings.md",
+    "markdown_file": "docs_md/D2_embeddings.md",
+    "text_file": "docs_txt/D2_embeddings.txt"
+  },
+  {
+    "doc_id": "D3",
+    "title": "File Search",
+    "url": "https://developers.openai.com/api/docs/guides/tools-file-search.md",
+    "markdown_file": "docs_md/D3_file_search.md",
+    "text_file": "docs_txt/D3_file_search.txt"
+  },
+  {
+    "doc_id": "D4",
+    "title": "Structured Outputs",
+    "url": "https://developers.openai.com/api/docs/guides/structured-outputs.md",
+    "markdown_file": "docs_md/D4_structured_outputs.md",
+    "text_file": "docs_txt/D4_structured_outputs.txt"
+  },
+  {
+    "doc_id": "D5",
+    "title": "Rate Limits",
+    "url": "https://developers.openai.com/api/docs/guides/rate-limits.md",
+    "markdown_file": "docs_md/D5_rate_limits.md",
+    "text_file": "docs_txt/D5_rate_limits.txt"
+  },
+  {
+    "doc_id": "D6",
+    "title": "Batch API",
+    "url": "https://developers.openai.com/api/docs/guides/batch.md",
+    "markdown_file": "docs_md/D6_batch_api.md",
+    "text_file": "docs_txt/D6_batch_api.txt"
+  },
+  {
+    "doc_id": "D7",
+    "title": "Safety Best Practices",
+    "url": "https://developers.openai.com/api/docs/guides/safety-best-practices.md",
+    "markdown_file": "docs_md/D7_safety_best_practices.md",
+    "text_file": "docs_txt/D7_safety_best_practices.txt"
+  },
+  {
+    "doc_id": "D8",
+    "title": "Agent Evals",
+    "url": "https://developers.openai.com/api/docs/guides/agent-evals.md",
+    "markdown_file": "docs_md/D8_agent_evals.md",
+    "text_file": "docs_txt/D8_agent_evals.txt"
+  }
+]
